@@ -3,3 +3,4 @@ secretfile filter=git-crypt diff=git-crypt
 secretdir/** filter=git-crypt diff=git-crypt
 text-guardar.txt filter=git-crypt diff=git-crypt
 cifrado.txt filter=git-crypt diff=git-crypt
+carpeta1/** filter=git-crypt diff=git-crypt
